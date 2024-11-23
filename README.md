@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # ImGui Java
@@ -401,3 +402,6 @@ This script configures the FreeType library to be statically compiled into your 
 # License
 
 See the LICENSE file for license rights and limitations (MIT).
+=======
+# test
+>>>>>>> 761cfc1d2363b0656fa28f12d5f3e0a52e971b46
